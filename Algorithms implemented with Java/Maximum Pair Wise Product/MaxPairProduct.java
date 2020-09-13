@@ -1,5 +1,7 @@
+
 import java.util.Arrays;
 import java.util.Scanner;
+
 public class MaxPairProduct {
     public static void main (String[] args) {
     Scanner myScan = new Scanner(System.in);
